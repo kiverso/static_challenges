@@ -1,0 +1,75 @@
+body {
+  font-family: sans-serif;
+}
+
+#title {
+  font-weight: bold;
+  display: inline;
+}
+
+#login {
+  display: inline;
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  padding: 10px
+}
+
+#museum {
+  width: 97%;
+  float: left;
+  padding-left: 0px;
+  margin: 19px auto;
+  background-color: white;
+}
+
+ul img {
+  width: 20%;
+  float: right;
+  padding-left: 0px;
+  margin: 0px auto;
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.leftcolumn {
+float: left;
+width: 75%;
+}
+
+.rightcolumn {
+margin-top: 20px;
+float: left;
+width: 25%;
+}
+
+.content {
+  margin: 0 auto;
+  background-color: white;
+}
+
+figcaption {
+font-weight: bold;
+}
+
+p {
+  width: 97%;
+  padding: 5px;
+}
+
+a {
+  float: right;
+  padding-left: 8px;
+  color: white;
+}
+
+nav {
+  background-color: #404040;
+  padding: 10px;
+  margin: 0 auto;
+}
